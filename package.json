@@ -1,0 +1,25 @@
+{
+  "name": "jsonapi",
+  "version": "1.0.0",
+  "description": "JSON API for developing web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iNOfutta/jsonapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iNOfutta/jsonapi/issues"
+  },
+  "homepage": "https://github.com/iNOfutta/jsonapi#readme",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "nodemon": "^2.0.22"
+  }
+}
