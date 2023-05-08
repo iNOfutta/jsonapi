@@ -1,11 +1,6 @@
 {
-    "posts": [
-      {
-        "id": 2,
-        "title": "hello"
-      }
+    "authors": [
     ],
-    "profile": {
-      "name": "typicode"
-    }
+    "projects": [
+    ]
   }
